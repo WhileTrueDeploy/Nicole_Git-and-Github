@@ -22,4 +22,6 @@ The quiz highlighted different comparison tools:
 ### 4. Controlling Script Exit Values
 Python scripts communicate success or failure through exit codes. Instead of using `return` outside a function, scripts should use `sys.exit()` to define exit values. This is especially important for automation and monitoring scripts.
 
+### Key takeaways from learning about git commits
+Knowing basic Git commands and guidelines for writing better messages can help you get started with Git as well as better communicate with others.
 
